@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=EvenStream&fontAlign=70&stroke=00FF00)
+(https://capsule-render.vercel.app/api?type=waving&height=200&text=EvenStream!&fontAlign=80&fontAlignY=40&color=gradient)
 
 ![EvenStream11's GitHub stats](https://github-readme-stats.vercel.app/api?username=evenstream11&count_private=true&show_icons=true&theme=Gradient)
 
